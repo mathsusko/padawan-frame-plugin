@@ -1,0 +1,23 @@
+{
+  "name": "seeke-studio",
+  "owner": {
+    "name": "Seeke Studio",
+    "url": "https://github.com/mathsusko"
+  },
+  "metadata": {
+    "description": "Plugins da Seeke Studio para Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "padawan-frame-plugin",
+      "source": "./",
+      "description": "Método Padawan Frame: 7 fases com estado em .padawan/ e breques para IAs externas.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Seeke Studio"
+      },
+      "license": "MIT",
+      "keywords": ["seeke-studio", "padawan-frame", "landing-page"]
+    }
+  ]
+}

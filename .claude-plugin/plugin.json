@@ -1,0 +1,28 @@
+{
+  "name": "padawan-frame-plugin",
+  "version": "0.1.0",
+  "description": "Método Padawan Frame da Seeke Studio: 7 fases (discovery, engenharia reversa de HTML, base Next.js/Astro, seções com motion, SEO, performance mobile e deploy) com estado determinístico em .padawan/ e breques para IAs externas.",
+  "author": {
+    "name": "Seeke Studio",
+    "url": "https://github.com/mathsusko"
+  },
+  "homepage": "https://github.com/mathsusko/padawan-frame-plugin",
+  "repository": "https://github.com/mathsusko/padawan-frame-plugin",
+  "license": "MIT",
+  "keywords": [
+    "seeke-studio",
+    "padawan-frame",
+    "landing-page",
+    "nextjs",
+    "astro",
+    "tailwind",
+    "shadcn",
+    "gsap",
+    "scroll-frames",
+    "seo",
+    "performance",
+    "mobile-first",
+    "acessibilidade",
+    "lgpd"
+  ]
+}
